@@ -1,0 +1,12 @@
+# Fotografías personales
+datos/
+
+# Copia antigua del modelo
+modelo_ppt_v1/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos internos de macOS
+.DS_Store
